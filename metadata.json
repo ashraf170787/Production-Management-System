@@ -1,0 +1,5 @@
+{
+  "name": "Production Management System",
+  "description": "A system to record daily production, wastage, and machine breakdowns.",
+  "requestFramePermissions": []
+}
